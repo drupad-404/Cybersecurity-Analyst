@@ -1,68 +1,50 @@
-# Cybersecurity-Analyst
-# 👋 Hey there, I'm Drupad Manoj
+# 👋 Hi, I'm Drupad Manoj
 
-## 👨‍💻 About Me
-I'm a passionate and self-driven **Network Engineer** actively shifting my career toward **Cybersecurity**. With hands-on experience in configuring and maintaining network infrastructures, I'm now diving deep into ethical hacking, penetration testing, and vulnerability assessments.
-
-- 🎓 Bachelor of Computer Applications (BCA)
-- 📍 Based in Kannur, India
-- 🛠️ Network Engineer at Microsense Private Limited
-- 🔐 Aspiring Cybersecurity Analyst Professional
+🎯 **Network Engineer | Cybersecurity Enthusiast**  
+🌐 Currently @ Microsense Networks Pvt. Ltd.  
+🔐 Transitioning into White-Hat Hacking & Cyber Defense  
+📍 India
 
 ---
 
-## 🧰 Skills & Tools
+## 🧠 About Me
 
-### Networking
-- Cisco Routers & Switches, VLAN, STP, EtherChannel
-- Routing Protocols: OSPF, EIGRP, RIP, BGP
-- NAT/PAT, VPN, DHCP, DNS
-- Wireshark, Cisco Packet Tracer, PRTG, Nmap
-
-### Cybersecurity (New Domain)
-- **Kali Linux**
-- **Nmap**
-- **Burp Suite**
-- **Metasploit Framework**
-- **Wireshark**
-- **Nessus**
-- **SQL Map**
-- **John The Ripper**
-- **Hydra**
-- **Aircrack-ng**
-- **Social Engineering Toolkit(set)**
-- **Mimikatz**
-- Linux basics for ethical hacking, vulnerability scanning
+I'm a self-driven professional with hands-on experience in maintaining complex network infrastructures and a strong passion for cybersecurity. I'm currently diving deep into penetration testing, vulnerability assessments, and network defense strategies.
 
 ---
 
-## 🚀 Projects
-> *(Add real or demo GitHub projects when ready)*
+## 🛠️ Skills & Tools
 
-- 🛡️ **VulnScan-Automation** — Automated vulnerability scanner using Nmap and Nessus API *(Coming soon)*
-- 🔍 **ReconTools** — Bash script that performs basic recon using Nmap, Whois, Dig, etc.
-- 🧪 **Wireshark Lab Logs** — Public logs and packet captures for educational purposes
+- **Networking**: VLAN, STP, OSPF, EIGRP, NAT/PAT, DHCP, DNS, Cisco IOS, Meraki
+- **Security Tools**: Metasploit, Burp Suite, Nmap, Nessus, Hydra, John the Ripper, SQLmap, Aircrack-ng
+- **Monitoring Tools**: Wireshark, PRTG, The Dude, Kiwi Syslog
+- **Cloud**: Oracle Cloud basics
+- **Scripting**: CLI scripts for automation
+- **Protocols**: OSI, TCP/IP, PPP, HDLC, IEEE 802.11
 
 ---
 
-## 📜 Certifications
-- ✅ Cisco Certified Network Associate (CCNA)  
-  Cisco ID: `CSCO14811468`
+## 📁 Featured Projects
 
+- 🔐 [Cybersecurity Lab](https://github.com/drupad-404/Cyber.git) – Hands-on ethical hacking practice
+- 📶 Network Configuration Samples (Coming soon)
+- 🧪 Penetration Testing Demos (Coming soon)
+
+---
+
+## 🧾 Certifications
+
+- ✅ Cisco Certified Network Associate (CCNA) | [CSCO14811468]
 - ✅ Fortinet Certified Fundamentals in Cybersecurity
 
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/drupad-manoj)
+- 📧 drupadmanoj21@gmail.com
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/drupad-manoj)  
-📫 drupadmanoj21@gmail.com  
-📱 +91 9400566297
-
----
-
-_“Your network can be hacked. Your skills shouldn’t be.”_
-
-
+> *"Security is not a product, but a process." – Bruce Schneier*
 
