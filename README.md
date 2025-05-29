@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Drupad Manoj
 
 🎯 **Network Engineer | Cybersecurity Enthusiast**  
-🌐 Currently @ Microsense Networks Pvt. Ltd.  
+🌐 Currently @ Microsense Networks Private Limited  
 🔐 Transitioning into White-Hat Hacking & Cyber Defense  
 📍 India
 
