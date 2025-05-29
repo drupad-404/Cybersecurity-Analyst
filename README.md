@@ -2,7 +2,7 @@
 
 🎯 **Network Engineer | Cybersecurity Enthusiast**  
 🌐 Currently @ Microsense Networks Private Limited  
-🔐 Transitioning into White-Hat Hacking & Cyber Defense  
+🔐 On a journey into cyber defense and ethical hacking  
 📍 India
 
 ---
